@@ -4,12 +4,6 @@
 - 💻 I'm a **Software Engineering** Student
 - 📗 Coursing **Computer Engineering** at IFSP
 
-## ✔️ Github Stats
-<a href="https://github.com/pianissoli" style="display: flex; justify-content: center;">
-  <img src="https://github-readme-stats.vercel.app/api?username=pianissoli&show_icons=true&theme=chartreuse-dark" alt="João's GitHub stats" width="400px" height="195px">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pianissoli&layout=compact&theme=chartreuse-dark" alt="Joao´s Top Langs" width="400px" height="195px"> 
-</a>
-
 ## 🌎 Find me elsewhere
 
 <div>
